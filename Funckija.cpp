@@ -44,6 +44,15 @@ void setUTF8Console() { // Latvijas alfabētam un simboliem
     SetConsoleCP(CP_UTF8);
 }
 
+bool containsIgnoreCase(const string& str, const string& substring) {
+    string strLower = str;
+    string subLower = substring;
+    // Convert both strings to lowercase for case-insensitive comparison
+    transform(strLower.begin(), strLower.end(), strLower.begin(), ::tolower);
+    transform(subLower.begin(), subLower.end(), subLower.begin(), ::tolower);
+    return strLower.find(subLower) != string::npos;
+}
+
 void searchItems(const json& data, 
                 const string& kategorija, 
                 const string& apakskategorija, 
@@ -62,9 +71,9 @@ void searchItems(const json& data,
                 const json& item = it.value();
                 
                 bool matches = true;
-                if (!apakskategorija.empty() && item["Kategorija"] != apakskategorija) matches = false;
-                if (!zimols.empty() && item["Zīmols"] != zimols) matches = false;
-                if (!nosaukums.empty() && item["Nosaukums"] != nosaukums) matches = false;
+                if (!apakskategorija.empty() && !containsIgnoreCase(item["Kategorija"], apakskategorija)) matches = false;
+                if (!zimols.empty() && !containsIgnoreCase(item["Zīmols"], zimols)) matches = false;
+                if (!nosaukums.empty() && !containsIgnoreCase(item["Nosaukums"], nosaukums)) matches = false;
                 if (noliktava != -1 && item["Noliktava"] != noliktava) matches = false;
                 
                 if (matches) {
@@ -81,9 +90,9 @@ void searchItems(const json& data,
                 const json& item = it.value();
                 
                 bool matches = true;
-                if (!apakskategorija.empty() && item["Kategorija"] != apakskategorija) matches = false;
-                if (!zimols.empty() && item["Zīmols"] != zimols) matches = false;
-                if (!nosaukums.empty() && item["Nosaukums"] != nosaukums) matches = false;
+                if (!apakskategorija.empty() && !containsIgnoreCase(item["Kategorija"], apakskategorija)) matches = false;
+                if (!zimols.empty() && !containsIgnoreCase(item["Zīmols"], zimols)) matches = false;
+                if (!nosaukums.empty() && !containsIgnoreCase(item["Nosaukums"], nosaukums)) matches = false;
                 if (noliktava != -1 && item["Noliktava"] != noliktava) matches = false;
                 
                 if (matches) {
@@ -100,9 +109,9 @@ void searchItems(const json& data,
                 const json& item = it.value();
                 
                 bool matches = true;
-                if (!apakskategorija.empty() && item["Kategorija"] != apakskategorija) matches = false;
-                if (!zimols.empty() && item["Zīmols"] != zimols) matches = false;
-                if (!nosaukums.empty() && item["Nosaukums"] != nosaukums) matches = false;
+                if (!apakskategorija.empty() && !containsIgnoreCase(item["Kategorija"], apakskategorija)) matches = false;
+                if (!zimols.empty() && !containsIgnoreCase(item["Zīmols"], zimols)) matches = false;
+                if (!nosaukums.empty() && !containsIgnoreCase(item["Nosaukums"], nosaukums)) matches = false;
                 if (noliktava != -1 && item["Noliktava"] != noliktava) matches = false;
                 
                 if (matches) {
@@ -131,9 +140,9 @@ void searchItems(const json& data,
         for (auto it = searchCategory->begin(); it != searchCategory->end(); ++it) {
             const json& item = it.value();
             bool matches = true;
-            if (!apakskategorija.empty() && item["Kategorija"] != apakskategorija) matches = false;
-            if (!zimols.empty() && item["Zīmols"] != zimols) matches = false;
-            if (!nosaukums.empty() && item["Nosaukums"] != nosaukums) matches = false;
+            if (!apakskategorija.empty() && !containsIgnoreCase(item["Kategorija"], apakskategorija)) matches = false;
+            if (!zimols.empty() && !containsIgnoreCase(item["Zīmols"], zimols)) matches = false;
+            if (!nosaukums.empty() && !containsIgnoreCase(item["Nosaukums"], nosaukums)) matches = false;
             if (noliktava != -1 && item["Noliktava"] != noliktava) matches = false;
             
             if (matches) {
