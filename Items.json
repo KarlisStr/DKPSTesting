@@ -1,0 +1,918 @@
+{
+    "Perifērijas": {
+      "1": {
+        "Kategorija": "Pele",
+        "Nosaukums": "G502 HERO",
+        "Zīmols": "Logitech",
+        "IzlaišanasGads": 2018,
+        "Svars": 121,
+        "Savienojums": "USB",
+        "Informācija": "Gaming pele ar 11 programmējamām pogām",
+        "ReģistrēšanasDatums": "2024-03-15",
+        "Noliktava": 1
+      },
+      "2": {
+        "Kategorija": "Klaviatūra",
+        "Nosaukums": "K95 RGB Platinum",
+        "Zīmols": "Corsair",
+        "IzlaišanasGads": 2019,
+        "Svars": 1320,
+        "Savienojums": "USB",
+        "Informācija": "Mehāniska klaviatūra ar Cherry MX Blue",
+        "ReģistrēšanasDatums": "2024-03-14",
+        "Noliktava": 2
+      },
+      "3": {
+        "Kategorija": "Austiņas",
+        "Nosaukums": "Cloud II",
+        "Zīmols": "HyperX",
+        "IzlaišanasGads": 2020,
+        "Svars": 320,
+        "Savienojums": "3.5mm",
+        "Informācija": "7.1 Surround Sound austiņas",
+        "ReģistrēšanasDatums": "2024-03-13",
+        "Noliktava": 1
+      },
+      "4": {
+        "Kategorija": "Monitors",
+        "Nosaukums": "Odyssey G7",
+        "Zīmols": "Samsung",
+        "IzlaišanasGads": 2021,
+        "Svars": 7200,
+        "Savienojums": "DisplayPort",
+        "Informācija": "27 collu 240Hz QHD monitors",
+        "ReģistrēšanasDatums": "2024-03-12",
+        "Noliktava": 2
+      },
+      "5": {
+        "Kategorija": "Kamera",
+        "Nosaukums": "C920",
+        "Zīmols": "Logitech",
+        "IzlaišanasGads": 2017,
+        "Svars": 162,
+        "Savienojums": "USB",
+        "Informācija": "1080p HD kamera",
+        "ReģistrēšanasDatums": "2024-03-11",
+        "Noliktava": 1
+      },
+      "6": {
+        "Kategorija": "Mikrofons",
+        "Nosaukums": "Snowball",
+        "Zīmols": "Blue",
+        "IzlaišanasGads": 2019,
+        "Svars": 460,
+        "Savienojums": "USB",
+        "Informācija": "Kondensatora mikrofons",
+        "ReģistrēšanasDatums": "2024-03-10",
+        "Noliktava": 2
+      },
+      "7": {
+        "Kategorija": "Skeneris",
+        "Nosaukums": "V39",
+        "Zīmols": "Epson",
+        "IzlaišanasGads": 2020,
+        "Svars": 1500,
+        "Savienojums": "USB",
+        "Informācija": "4800 DPI skeneris",
+        "ReģistrēšanasDatums": "2024-03-09",
+        "Noliktava": 1
+      },
+      "8": {
+        "Kategorija": "Printeris",
+        "Nosaukums": "M281fdw",
+        "Zīmols": "HP",
+        "IzlaišanasGads": 2021,
+        "Svars": 16200,
+        "Savienojums": "Wi-Fi",
+        "Informācija": "Krāsu lāzerprinteris",
+        "ReģistrēšanasDatums": "2024-03-08",
+        "Noliktava": 2
+      },
+      "9": {
+        "Kategorija": "Planšete",
+        "Nosaukums": "Intuos Pro",
+        "Zīmols": "Wacom",
+        "IzlaišanasGads": 2020,
+        "Svars": 700,
+        "Savienojums": "USB/Bluetooth",
+        "Informācija": "Profesionāla grafiska planšete",
+        "ReģistrēšanasDatums": "2024-03-07",
+        "Noliktava": 1
+      },
+      "10": {
+        "Kategorija": "Kontrolieris",
+        "Nosaukums": "Elite Series 2",
+        "Zīmols": "Xbox",
+        "IzlaišanasGads": 2019,
+        "Svars": 345,
+        "Savienojums": "USB/Bluetooth",
+        "Informācija": "Premium spēļu kontrolieris",
+        "ReģistrēšanasDatums": "2024-03-06",
+        "Noliktava": 2
+      },
+      "11": {
+        "Kategorija": "Pele",
+        "Nosaukums": "MX Master 3",
+        "Zīmols": "Logitech",
+        "IzlaišanasGads": 2020,
+        "Svars": 141,
+        "Savienojums": "USB/Bluetooth",
+        "Informācija": "Ergonomiska pele ar programmējamām pogām",
+        "ReģistrēšanasDatums": "2024-03-05",
+        "Noliktava": 1
+      },
+      "12": {
+        "Kategorija": "Pele",
+        "Nosaukums": "DeathAdder V2",
+        "Zīmols": "Razer",
+        "IzlaišanasGads": 2020,
+        "Svars": 82,
+        "Savienojums": "USB",
+        "Informācija": "Gaming pele ar optisko sensoru",
+        "ReģistrēšanasDatums": "2024-03-04",
+        "Noliktava": 2
+      },
+      "13": {
+        "Kategorija": "Pele",
+        "Nosaukums": "Basilisk X Hyperspeed",
+        "Zīmols": "Razer",
+        "IzlaišanasGads": 2019,
+        "Svars": 83,
+        "Savienojums": "USB/Bluetooth",
+        "Informācija": "Bezvadu gaming pele",
+        "ReģistrēšanasDatums": "2024-03-03",
+        "Noliktava": 1
+      },
+      "14": {
+        "Kategorija": "Pele",
+        "Nosaukums": "Viper Ultimate",
+        "Zīmols": "Razer",
+        "IzlaišanasGads": 2019,
+        "Svars": 74,
+        "Savienojums": "USB",
+        "Informācija": "Bezvadu gaming pele ar optisko sensoru",
+        "ReģistrēšanasDatums": "2024-03-02",
+        "Noliktava": 2
+      },
+      "15": {
+        "Kategorija": "Pele",
+        "Nosaukums": "G Pro X Superlight",
+        "Zīmols": "Logitech",
+        "IzlaišanasGads": 2020,
+        "Svars": 63,
+        "Savienojums": "USB",
+        "Informācija": "Ultra viegla bezvadu gaming pele",
+        "ReģistrēšanasDatums": "2024-03-01",
+        "Noliktava": 1
+      },
+      "16": {
+        "Kategorija": "Klaviatūra",
+        "Nosaukums": "Huntsman Elite",
+        "Zīmols": "Razer",
+        "IzlaišanasGads": 2019,
+        "Svars": 1100,
+        "Savienojums": "USB",
+        "Informācija": "Mehāniska klaviatūra ar optiskajiem slēdžiem",
+        "ReģistrēšanasDatums": "2024-02-28",
+        "Noliktava": 2
+      },
+      "17": {
+        "Kategorija": "Klaviatūra",
+        "Nosaukums": "BlackWidow V3",
+        "Zīmols": "Razer",
+        "IzlaišanasGads": 2020,
+        "Svars": 1240,
+        "Savienojums": "USB",
+        "Informācija": "Mehāniska klaviatūra ar Razer Green slēdžiem",
+        "ReģistrēšanasDatums": "2024-02-27",
+        "Noliktava": 1
+      },
+      "18": {
+        "Kategorija": "Klaviatūra",
+        "Nosaukums": "Apex Pro",
+        "Zīmols": "SteelSeries",
+        "IzlaišanasGads": 2019,
+        "Svars": 970,
+        "Savienojums": "USB",
+        "Informācija": "Mehāniska klaviatūra ar OmniPoint slēdžiem",
+        "ReģistrēšanasDatums": "2024-02-26",
+        "Noliktava": 2
+      },
+      "19": {
+        "Kategorija": "Klaviatūra",
+        "Nosaukums": "G915 TKL",
+        "Zīmols": "Logitech",
+        "IzlaišanasGads": 2020,
+        "Svars": 810,
+        "Savienojums": "USB/Bluetooth",
+        "Informācija": "Bezvadu mehāniska klaviatūra",
+        "ReģistrēšanasDatums": "2024-02-25",
+        "Noliktava": 1
+      },
+      "20": {
+        "Kategorija": "Klaviatūra",
+        "Nosaukums": "K70 RGB MK.2",
+        "Zīmols": "Corsair",
+        "IzlaišanasGads": 2018,
+        "Svars": 1250,
+        "Savienojums": "USB",
+        "Informācija": "Mehāniska klaviatūra ar Cherry MX Red",
+        "ReģistrēšanasDatums": "2024-02-24",
+        "Noliktava": 2
+      },
+      "21": {
+        "Kategorija": "Monitors",
+        "Nosaukums": "Predator X27",
+        "Zīmols": "Acer",
+        "IzlaišanasGads": 2019,
+        "Svars": 7800,
+        "Savienojums": "DisplayPort",
+        "Informācija": "27 collu 4K HDR monitors",
+        "ReģistrēšanasDatums": "2024-02-23",
+        "Noliktava": 1
+      },
+      "22": {
+        "Kategorija": "Monitors",
+        "Nosaukums": "ROG Swift PG259QN",
+        "Zīmols": "ASUS",
+        "IzlaišanasGads": 2020,
+        "Svars": 7100,
+        "Savienojums": "DisplayPort",
+        "Informācija": "24.5 collu 360Hz FHD monitors",
+        "ReģistrēšanasDatums": "2024-02-22",
+        "Noliktava": 2
+      },
+      "23": {
+        "Kategorija": "Monitors",
+        "Nosaukums": "UltraGear 27GN950",
+        "Zīmols": "LG",
+        "IzlaišanasGads": 2020,
+        "Svars": 6800,
+        "Savienojums": "DisplayPort",
+        "Informācija": "27 collu 4K UHD monitors",
+        "ReģistrēšanasDatums": "2024-02-21",
+        "Noliktava": 1
+      },
+      "24": {
+        "Kategorija": "Monitors",
+        "Nosaukums": "Odyssey G9",
+        "Zīmols": "Samsung",
+        "IzlaišanasGads": 2020,
+        "Svars": 14000,
+        "Savienojums": "DisplayPort",
+        "Informācija": "49 collu 240Hz QHD monitors",
+        "ReģistrēšanasDatums": "2024-02-20",
+        "Noliktava": 2
+      },
+      "25": {
+        "Kategorija": "Monitors",
+        "Nosaukums": "Alienware AW3420DW",
+        "Zīmols": "Dell",
+        "IzlaišanasGads": 2019,
+        "Svars": 8500,
+        "Savienojums": "DisplayPort",
+        "Informācija": "34 collu 120Hz WQHD monitors",
+        "ReģistrēšanasDatums": "2024-02-19",
+        "Noliktava": 1
+      },
+      "26": {
+        "Kategorija": "Austiņas",
+        "Nosaukums": "Arctis Pro Wireless",
+        "Zīmols": "SteelSeries",
+        "IzlaišanasGads": 2018,
+        "Svars": 357,
+        "Savienojums": "USB/Bluetooth",
+        "Informācija": "Bezvadu gaming austiņas ar Hi-Res audio",
+        "ReģistrēšanasDatums": "2024-02-18",
+        "Noliktava": 2
+      },
+      "27": {
+        "Kategorija": "Austiņas",
+        "Nosaukums": "GSP 670",
+        "Zīmols": "EPOS",
+        "IzlaišanasGads": 2019,
+        "Svars": 398,
+        "Savienojums": "USB/Bluetooth",
+        "Informācija": "Bezvadu gaming austiņas ar zemu latentumu",
+        "ReģistrēšanasDatums": "2024-02-17",
+        "Noliktava": 1
+      },
+      "28": {
+        "Kategorija": "Austiņas",
+        "Nosaukums": "ATH-M50xBT",
+        "Zīmols": "Audio-Technica",
+        "IzlaišanasGads": 2018,
+        "Svars": 310,
+        "Savienojums": "Bluetooth",
+        "Informācija": "Bezvadu studijas austiņas",
+        "ReģistrēšanasDatums": "2024-02-16",
+        "Noliktava": 2
+      },
+      "29": {
+        "Kategorija": "Austiņas",
+        "Nosaukums": "WH-1000XM4",
+        "Zīmols": "Sony",
+        "IzlaišanasGads": 2020,
+        "Svars": 254,
+        "Savienojums": "Bluetooth",
+        "Informācija": "Bezvadu austiņas ar aktīvo trokšņu slāpēšanu",
+        "ReģistrēšanasDatums": "2024-02-15",
+        "Noliktava": 1
+      },
+      "30": {
+        "Kategorija": "Austiņas",
+        "Nosaukums": "QC35 II",
+        "Zīmols": "Bose",
+        "IzlaišanasGads": 2017,
+        "Svars": 240,
+        "Savienojums": "Bluetooth",
+        "Informācija": "Bezvadu austiņas ar trokšņu slāpēšanu",
+        "ReģistrēšanasDatums": "2024-02-14",
+        "Noliktava": 2
+      },
+    "31": {
+        "Kategorija": "Mikrofons",
+        "Nosaukums": "Quadcast S",
+        "Zīmols": "HyperX",
+        "IzlaišanasGads": 2021,
+        "Svars": 254,
+        "Savienojums": "USB",
+        "Informācija": "RGB kondensatora mikrofons ar skārienjutīgām kontrolēm",
+        "ReģistrēšanasDatums": "2024-02-13",
+        "Noliktava": 1
+    },
+    "32": {
+        "Kategorija": "Kontrolieris",
+        "Nosaukums": "DualSense",
+        "Zīmols": "Sony",
+        "IzlaišanasGads": 2020,
+        "Svars": 280,
+        "Savienojums": "USB-C/Bluetooth",
+        "Informācija": "PS5 kontrolieris ar haptisko atgriezenisko saiti",
+        "ReģistrēšanasDatums": "2024-02-12",
+        "Noliktava": 2
+    },
+    "33": {
+        "Kategorija": "Kamera",
+        "Nosaukums": "StreamCam",
+        "Zīmols": "Logitech",
+        "IzlaišanasGads": 2020,
+        "Svars": 150,
+        "Savienojums": "USB-C",
+        "Informācija": "1080p/60fps kamera ar vertikālo režīmu",
+        "ReģistrēšanasDatums": "2024-02-11",
+        "Noliktava": 1
+    },
+    "34": {
+        "Kategorija": "Skeneris",
+        "Nosaukums": "ScanSnap iX1600",
+        "Zīmols": "Fujitsu",
+        "IzlaišanasGads": 2021,
+        "Svars": 3400,
+        "Savienojums": "Wi-Fi/USB",
+        "Informācija": "Dokumentu skeneris ar automātisko padevi",
+        "ReģistrēšanasDatums": "2024-02-10",
+        "Noliktava": 2
+    },
+    "35": {
+        "Kategorija": "Printeris",
+        "Nosaukums": "PIXMA G7020",
+        "Zīmols": "Canon",
+        "IzlaišanasGads": 2022,
+        "Svars": 8200,
+        "Savienojums": "Wi-Fi/Ethernet",
+        "Informācija": "Tintes tvertnes printeris ar zemu drukāšanas izmaksu",
+        "ReģistrēšanasDatums": "2024-02-09",
+        "Noliktava": 1
+    },
+    "36": {
+        "Kategorija": "Planšete",
+        "Nosaukums": "Cintiq 16",
+        "Zīmols": "Wacom",
+        "IzlaišanasGads": 2021,
+        "Svars": 1500,
+        "Savienojums": "USB-C/HDMI",
+        "Informācija": "15.6 collu grafiskā planšete ar ekrānu",
+        "ReģistrēšanasDatums": "2024-02-08",
+        "Noliktava": 2
+    },
+    "37": {
+        "Kategorija": "Monitors",
+        "Nosaukums": "ProArt PA278QV",
+        "Zīmols": "ASUS",
+        "IzlaišanasGads": 2021,
+        "Svars": 6800,
+        "Savienojums": "DisplayPort/HDMI",
+        "Informācija": "27 collu profesionāls monitors ar 100% sRGB",
+        "ReģistrēšanasDatums": "2024-02-07",
+        "Noliktava": 1
+    },
+    "38": {
+        "Kategorija": "Austiņas",
+        "Nosaukums": "Zone Wireless",
+        "Zīmols": "Logitech",
+        "IzlaišanasGads": 2021,
+        "Svars": 180,
+        "Savienojums": "Bluetooth/USB",
+        "Informācija": "Biznesa austiņas ar trokšņu slāpēšanu",
+        "ReģistrēšanasDatums": "2024-02-06",
+        "Noliktava": 2
+    },
+    "39": {
+        "Kategorija": "Klaviatūra",
+        "Nosaukums": "Stream Deck MK.2",
+        "Zīmols": "Elgato",
+        "IzlaišanasGads": 2021,
+        "Svars": 270,
+        "Savienojums": "USB-C",
+        "Informācija": "15 LCD pogu kontroles panelis",
+        "ReģistrēšanasDatums": "2024-02-05",
+        "Noliktava": 1
+    },
+    "40": {
+        "Kategorija": "Pele",
+        "Nosaukums": "Pro X Superlight",
+        "Zīmols": "Logitech",
+        "IzlaišanasGads": 2021,
+        "Svars": 63,
+        "Savienojums": "USB/Wireless",
+        "Informācija": "Ultravieglā bezvadu spēļu pele",
+        "ReģistrēšanasDatums": "2024-02-04",
+        "Noliktava": 2
+    },
+    "41": {
+        "Kategorija": "Mikrofons",
+        "Nosaukums": "Wave:3",
+        "Zīmols": "Elgato",
+        "IzlaišanasGads": 2020,
+        "Svars": 280,
+        "Savienojums": "USB-C",
+        "Informācija": "Premium straumēšanas mikrofons",
+        "ReģistrēšanasDatums": "2024-02-03",
+        "Noliktava": 1
+    },
+    "42": {
+        "Kategorija": "Kamera",
+        "Nosaukums": "Kiyo Pro",
+        "Zīmols": "Razer",
+        "IzlaišanasGads": 2021,
+        "Svars": 196,
+        "Savienojums": "USB 3.0",
+        "Informācija": "1080p/60fps kamera ar zemu apgaismojuma sensoru",
+        "ReģistrēšanasDatums": "2024-02-02",
+        "Noliktava": 2
+    },
+    "43": {
+        "Kategorija": "Kontrolieris",
+        "Nosaukums": "Pro Controller",
+        "Zīmols": "Nintendo",
+        "IzlaišanasGads": 2020,
+        "Svars": 246,
+        "Savienojums": "USB-C/Bluetooth",
+        "Informācija": "Switch Pro kontrolieris ar uzlabotu ergonomiku",
+        "ReģistrēšanasDatums": "2024-02-01",
+        "Noliktava": 1
+    },
+    "44": {
+        "Kategorija": "Monitors",
+        "Nosaukums": "EW3280U",
+        "Zīmols": "BenQ",
+        "IzlaišanasGads": 2021,
+        "Svars": 7500,
+        "Savienojums": "HDMI 2.0/DisplayPort",
+        "Informācija": "32 collu 4K monitors ar HDR",
+        "ReģistrēšanasDatums": "2024-01-31",
+        "Noliktava": 2
+    },
+    "45": {
+        "Kategorija": "Austiņas",
+        "Nosaukums": "Virtuoso RGB Wireless",
+        "Zīmols": "Corsair",
+        "IzlaišanasGads": 2021,
+        "Svars": 360,
+        "Savienojums": "USB/Wireless",
+        "Informācija": "Hi-Fi spēļu austiņas ar noņemamu mikrofonu",
+        "ReģistrēšanasDatums": "2024-01-30",
+        "Noliktava": 1
+    },
+    "46": {
+        "Kategorija": "Printeris",
+        "Nosaukums": "WorkForce Pro WF-4830",
+        "Zīmols": "Epson",
+        "IzlaišanasGads": 2021,
+        "Svars": 10200,
+        "Savienojums": "Wi-Fi/Ethernet",
+        "Informācija": "Daudzfunkcionāls tintes printeris",
+        "ReģistrēšanasDatums": "2024-01-29",
+        "Noliktava": 2
+    },
+    "47": {
+        "Kategorija": "Planšete",
+        "Nosaukums": "One by Wacom",
+        "Zīmols": "Wacom",
+        "IzlaišanasGads": 2020,
+        "Svars": 250,
+        "Savienojums": "USB",
+        "Informācija": "Kompakta grafiskā planšete iesācējiem",
+        "ReģistrēšanasDatums": "2024-01-28",
+        "Noliktava": 1
+    },
+    "48": {
+        "Kategorija": "Skeneris",
+        "Nosaukums": "Perfection V600",
+        "Zīmols": "Epson",
+        "IzlaišanasGads": 2021,
+        "Svars": 4000,
+        "Savienojums": "USB",
+        "Informācija": "Foto un filmu skeneris ar 6400 dpi",
+        "ReģistrēšanasDatums": "2024-01-27",
+        "Noliktava": 2
+    },
+    "49": {
+        "Kategorija": "Klaviatūra",
+        "Nosaukums": "Yoga ANC",
+        "Zīmols": "Lenovo",
+        "IzlaišanasGads": 2022,
+        "Svars": 420,
+        "Savienojums": "Bluetooth/USB-C",
+        "Informācija": "Konvertējama klaviatūra ar aktīvo trokšņu slāpēšanu",
+        "ReģistrēšanasDatums": "2024-01-26",
+        "Noliktava": 1
+    },
+    "50": {
+        "Kategorija": "Mikrofons",
+        "Nosaukums": "Yeti X",
+        "Zīmols": "Blue",
+        "IzlaišanasGads": 2021,
+        "Svars": 1280,
+        "Savienojums": "USB",
+        "Informācija": "Profesionāls USB mikrofons ar LED mērītāju",
+        "ReģistrēšanasDatums": "2024-01-25",
+        "Noliktava": 2
+    }
+    },
+    "Komponentes": {
+      "1": {
+        "Kategorija": "Procesors",
+        "Nosaukums": "Ryzen 9 5900X",
+        "Zīmols": "AMD",
+        "IzlaišanasGads": 2020,
+        "Informācija": "12 kodoli, 24 pavedienu procesors",
+        "ReģistrēšanasDatums": "2024-03-15",
+        "Noliktava": 1
+      },
+      "2": {
+        "Kategorija": "Videokarte",
+        "Nosaukums": "RTX 4080",
+        "Zīmols": "NVIDIA",
+        "IzlaišanasGads": 2022,
+        "Informācija": "16GB GDDR6X atmiņa",
+        "ReģistrēšanasDatums": "2024-03-14",
+        "Noliktava": 2
+      },
+      "3": {
+        "Kategorija": "RAM",
+        "Nosaukums": "Trident Z5",
+        "Zīmols": "G.Skill",
+        "IzlaišanasGads": 2021,
+        "Informācija": "32GB DDR5-6000",
+        "ReģistrēšanasDatums": "2024-03-13",
+        "Noliktava": 1
+      },
+      "4": {
+        "Kategorija": "Mātesplate",
+        "Nosaukums": "MPG B550 GAMING EDGE",
+        "Zīmols": "MSI",
+        "IzlaišanasGads": 2020,
+        "Informācija": "AM4 ligzda, Wi-Fi 6",
+        "ReģistrēšanasDatums": "2024-03-12",
+        "Noliktava": 2
+      },
+      "5": {
+        "Kategorija": "SSD",
+        "Nosaukums": "970 EVO Plus",
+        "Zīmols": "Samsung",
+        "IzlaišanasGads": 2019,
+        "Informācija": "1TB NVMe M.2",
+        "ReģistrēšanasDatums": "2024-03-11",
+        "Noliktava": 1
+      },
+      "6": {
+        "Kategorija": "Barošanas bloks",
+        "Nosaukums": "RM850x",
+        "Zīmols": "Corsair",
+        "IzlaišanasGads": 2021,
+        "Informācija": "850W 80+ Gold",
+        "ReģistrēšanasDatums": "2024-03-10",
+        "Noliktava": 2
+      },
+      "7": {
+        "Kategorija": "Korpuss",
+        "Nosaukums": "4000D Airflow",
+        "Zīmols": "Corsair",
+        "IzlaišanasGads": 2020,
+        "Informācija": "Mid-Tower ATX",
+        "ReģistrēšanasDatums": "2024-03-09",
+        "Noliktava": 1
+      },
+      "8": {
+        "Kategorija": "Procesora dzesētājs",
+        "Nosaukums": "NH-D15",
+        "Zīmols": "Noctua",
+        "IzlaišanasGads": 2019,
+        "Informācija": "Divtorņu gaisa dzesētājs",
+        "ReģistrēšanasDatums": "2024-03-08",
+        "Noliktava": 2
+      },
+      "9": {
+        "Kategorija": "Ventilators",
+        "Nosaukums": "Arctic P12",
+        "Zīmols": "Arctic",
+        "IzlaišanasGads": 2020,
+        "Informācija": "120mm PWM PST",
+        "ReģistrēšanasDatums": "2024-03-07",
+        "Noliktava": 1
+      },
+      "10": {
+        "Kategorija": "Termiskā pasta",
+        "Nosaukums": "MX-4",
+        "Zīmols": "Arctic",
+        "IzlaišanasGads": 2019,
+        "Informācija": "4g termālā pasta",
+        "ReģistrēšanasDatums": "2024-03-06",
+        "Noliktava": 2
+      },
+      "11": {
+        "Kategorija": "Procesors",
+        "Nosaukums": "Core i9-11900K",
+        "Zīmols": "Intel",
+        "IzlaišanasGads": 2021,
+        "Informācija": "8 kodoli, 16 pavedienu procesors",
+        "ReģistrēšanasDatums": "2024-02-13",
+        "Noliktava": 1
+      },
+      "12": {
+        "Kategorija": "Procesors",
+        "Nosaukums": "Ryzen 7 5800X",
+        "Zīmols": "AMD",
+        "IzlaišanasGads": 2020,
+        "Informācija": "8 kodoli, 16 pavedienu procesors",
+        "ReģistrēšanasDatums": "2024-02-12",
+        "Noliktava": 2
+      },
+      "13": {
+        "Kategorija": "Videokarte",
+        "Nosaukums": "RX 6900 XT",
+        "Zīmols": "AMD",
+        "IzlaišanasGads": 2020,
+        "Informācija": "16GB GDDR6 atmiņa",
+        "ReģistrēšanasDatums": "2024-02-11",
+        "Noliktava": 1
+      },
+      "14": {
+        "Kategorija": "Videokarte",
+        "Nosaukums": "RTX 3070",
+        "Zīmols": "NVIDIA",
+        "IzlaišanasGads": 2020,
+        "Informācija": "8GB GDDR6 atmiņa",
+        "ReģistrēšanasDatums": "2024-02-10",
+        "Noliktava": 2
+      },
+      "15": {
+        "Kategorija": "RAM",
+        "Nosaukums": "Vengeance LPX",
+        "Zīmols": "Corsair",
+        "IzlaišanasGads": 2018,
+        "Informācija": "16GB DDR4-3200",
+        "ReģistrēšanasDatums": "2024-02-09",
+        "Noliktava": 1
+      },
+      "16": {
+        "Kategorija": "RAM",
+        "Nosaukums": "Ripjaws V",
+        "Zīmols": "G.Skill",
+        "IzlaišanasGads": 2019,
+        "Informācija": "32GB DDR4-3600",
+        "ReģistrēšanasDatums": "2024-02-08",
+        "Noliktava": 2
+      },
+      "17": {
+        "Kategorija": "Mātesplate",
+        "Nosaukums": "ROG Strix Z590-E",
+        "Zīmols": "ASUS",
+        "IzlaišanasGads": 2021,
+        "Informācija": "LGA 1200 ligzda, Wi-Fi 6E",
+        "ReģistrēšanasDatums": "2024-02-07",
+        "Noliktava": 1
+      },
+      "18": {
+        "Kategorija": "Mātesplate",
+        "Nosaukums": "X570 AORUS Elite",
+        "Zīmols": "Gigabyte",
+        "IzlaišanasGads": 2019,
+        "Informācija": "AM4 ligzda, PCIe 4.0",
+        "ReģistrēšanasDatums": "2024-02-06",
+        "Noliktava": 2
+      },
+      "19": {
+        "Kategorija": "SSD",
+        "Nosaukums": "SN850",
+        "Zīmols": "Western Digital",
+        "IzlaišanasGads": 2020,
+        "Informācija": "1TB NVMe M.2",
+        "ReģistrēšanasDatums": "2024-02-05",
+        "Noliktava": 1
+      },
+      "20": {
+        "Kategorija": "SSD",
+        "Nosaukums": "A2000",
+        "Zīmols": "Kingston",
+        "IzlaišanasGads": 2019,
+        "Informācija": "500GB NVMe M.2",
+        "ReģistrēšanasDatums": "2024-02-04",
+        "Noliktava": 2
+      }
+    },
+    "Mēbeles": {
+      "1": {
+        "Kategorija": "Galds",
+        "Nosaukums": "Markus",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2021,
+        "Informācija": "160x80cm, regulējams augstums",
+        "ReģistrēšanasDatums": "2024-03-15",
+        "Noliktava": 1
+      },
+      "2": {
+        "Kategorija": "Krēsls",
+        "Nosaukums": "Titan Evo",
+        "Zīmols": "Secretlab",
+        "IzlaišanasGads": 2022,
+        "Informācija": "Premium spēļu krēsls",
+        "ReģistrēšanasDatums": "2024-03-14",
+        "Noliktava": 2
+      },
+      "3": {
+        "Kategorija": "Skapis",
+        "Nosaukums": "Alex",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2020,
+        "Informācija": "9 atvilktņu skapītis",
+        "ReģistrēšanasDatums": "2024-03-13",
+        "Noliktava": 1
+      },
+      "4": {
+        "Kategorija": "Monitora Statīvs",
+        "Nosaukums": "VESA Mount",
+        "Zīmols": "HUANUO",
+        "IzlaišanasGads": 2021,
+        "Informācija": "Dubultais monitora turētājs",
+        "ReģistrēšanasDatums": "2024-03-12",
+        "Noliktava": 2
+      },
+      "5": {
+        "Kategorija": "Kāju balsts",
+        "Nosaukums": "ErgoFoam",
+        "Zīmols": "ComfiLife",
+        "IzlaišanasGads": 2020,
+        "Informācija": "Ergonomisks kāju balsts",
+        "ReģistrēšanasDatums": "2024-03-11",
+        "Noliktava": 1
+      },
+      "6": {
+        "Kategorija": "Plaukts",
+        "Nosaukums": "Kallax",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2019,
+        "Informācija": "4x4 sekciju plaukts",
+        "ReģistrēšanasDatums": "2024-03-10",
+        "Noliktava": 2
+      },
+      "7": {
+        "Kategorija": "Kabeļu organizators",
+        "Nosaukums": "Signum",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2020,
+        "Informācija": "Horizontāls kabeļu turētājs",
+        "ReģistrēšanasDatums": "2024-03-09",
+        "Noliktava": 1
+      },
+      "8": {
+        "Kategorija": "Skapis",
+        "Nosaukums": "Helmer",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2021,
+        "Informācija": "6 atvilktņu mobils skapītis",
+        "ReģistrēšanasDatums": "2024-03-08",
+        "Noliktava": 2
+      },
+      "9": {
+        "Kategorija": "Plaukts",
+        "Nosaukums": "Billy",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2020,
+        "Informācija": "80x28x202cm grāmatplaukts",
+        "ReģistrēšanasDatums": "2024-03-07",
+        "Noliktava": 1
+      },
+      "10": {
+        "Kategorija": "Apgaismojums",
+        "Nosaukums": "Tertial",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2019,
+        "Informācija": "Regulējama darba lampa",
+        "ReģistrēšanasDatums": "2024-03-06",
+        "Noliktava": 2
+      },
+      "11": {
+        "Kategorija": "Galds",
+        "Nosaukums": "Bekant",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2021,
+        "Informācija": "120x80cm, regulējams augstums",
+        "ReģistrēšanasDatums": "2024-02-03",
+        "Noliktava": 1
+      },
+      "12": {
+        "Kategorija": "Galds",
+        "Nosaukums": "Linnmon",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2020,
+        "Informācija": "150x75cm, fiksēts augstums",
+        "ReģistrēšanasDatums": "2024-02-02",
+        "Noliktava": 2
+      },
+      "13": {
+        "Kategorija": "Galds",
+        "Nosaukums": "Fredde",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2019,
+        "Informācija": "140x60cm, spēļu galds",
+        "ReģistrēšanasDatums": "2024-02-01",
+        "Noliktava": 1
+      },
+      "14": {
+        "Kategorija": "Galds",
+        "Nosaukums": "Micke",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2018,
+        "Informācija": "105x50cm, rakstāmgalds",
+        "ReģistrēšanasDatums": "2024-01-31",
+        "Noliktava": 2
+      },
+      "15": {
+        "Kategorija": "Galds",
+        "Nosaukums": "Thyge",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2021,
+        "Informācija": "160x80cm, regulējams augstums",
+        "ReģistrēšanasDatums": "2024-01-30",
+        "Noliktava": 1
+      },
+      "16": {
+        "Kategorija": "Krēsls",
+        "Nosaukums": "Markus",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2020,
+        "Informācija": "Ergonomisks biroja krēsls",
+        "ReģistrēšanasDatums": "2024-01-29",
+        "Noliktava": 2
+      },
+      "17": {
+        "Kategorija": "Krēsls",
+        "Nosaukums": "Jarvfjallet",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2019,
+        "Informācija": "Ergonomisks biroja krēsls ar galvas balstu",
+        "ReģistrēšanasDatums": "2024-01-28",
+        "Noliktava": 1
+      },
+      "18": {
+        "Kategorija": "Krēsls",
+        "Nosaukums": "Hattefjall",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2021,
+        "Informācija": "Ergonomisks biroja krēsls ar roku balstiem",
+        "ReģistrēšanasDatums": "2024-01-27",
+        "Noliktava": 2
+      },
+      "19": {
+        "Kategorija": "Krēsls",
+        "Nosaukums": "Flintan",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2020,
+        "Informācija": "Biroja krēsls ar tīkla atzveltni",
+        "ReģistrēšanasDatums": "2024-01-26",
+        "Noliktava": 1
+      },
+      "20": {
+        "Kategorija": "Krēsls",
+        "Nosaukums": "Renberget",
+        "Zīmols": "IKEA",
+        "IzlaišanasGads": 2018,
+        "Informācija": "Biroja krēsls ar regulējamu augstumu",
+        "ReģistrēšanasDatums": "2024-01-25",
+        "Noliktava": 2
+      }
+    }
+  }
