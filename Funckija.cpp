@@ -47,14 +47,13 @@ void setUTF8Console() { // Latvijas alfabētam un simboliem
 bool containsIgnoreCase(const string& str, const string& substring) {
     string strLower = str;
     string subLower = substring;
-    // Convert both strings to lowercase for case-insensitive comparison
+    // Pārveido abas virknes uz mazajiem burtiem, lai veiktu reģistrjutīgu salīdzināšanu
     transform(strLower.begin(), strLower.end(), strLower.begin(), ::tolower);
     transform(subLower.begin(), subLower.end(), subLower.begin(), ::tolower);
     return strLower.find(subLower) != string::npos;
 }
-
 void searchItems(const json& data, 
-                const string& kategorija, 
+                const int kategorija,
                 const string& apakskategorija, 
                 const string& zimols, 
                 const string& nosaukums, 
@@ -63,8 +62,7 @@ void searchItems(const json& data,
     bool foundItems = false;
     int totalItems = 0; 
 
-    if (kategorija.empty()) { // Ja nav norādīta kategorija, tad meklē visās kategorijās
-
+    if (kategorija == 0) { // Meklē visās kategorijās
         // Perifēriju meklēšana
         if (data.contains("Perifērijas")) {
             for (auto it = data["Perifērijas"].begin(); it != data["Perifērijas"].end(); ++it) {
@@ -123,11 +121,11 @@ void searchItems(const json& data,
         }
     } else { // Ja ir norādīta kategorija, tad meklē tikai tajā kategorijā
         const json* searchCategory = nullptr;
-        if (kategorija == "Perifērijas") {
+        if (kategorija == 1) {
             searchCategory = &data["Perifērijas"];
-        } else if (kategorija == "Komponentes") {
+        } else if (kategorija == 3) {
             searchCategory = &data["Komponentes"];
-        } else if (kategorija == "Mēbeles") {
+        } else if (kategorija == 2) {
             searchCategory = &data["Mēbeles"];
         }
 
@@ -160,19 +158,17 @@ void searchItems(const json& data,
     }
 }
 
-// Pārveido lietotāja ievadīto kategoriju uz tekstu
-string getKategorija(const string& choice) {
-    if (choice.empty()) return "";
+// Pārveido lietotāja ievadīto kategoriju uz int
+int getKategorija(const string& choice) {
+    if (choice.empty()) return 0;  // 0 nozīmē visas kategorijas
     try {
         int num = stoi(choice);
-        switch(num) {
-            case 1: return "Perifērijas";
-            case 2: return "Mēbeles";
-            case 3: return "Komponentes";
-            default: return "";
+        if (num >= 0 && num <= 3) {
+            return num;  // Atgriež skaitli tieši
         }
-    } catch (...) { // Ja kautkas aiziet greizi, atgriez tukšu stringu
-        return "";
+        return 0;  // Noklusējuma gadījumā visas kategorijas
+    } catch (...) {
+        return 0;  // Noklusējuma gadījumā visas kategorijas
     }
 }
 // Pārveido lietotāja ievadīto noliktavu uz skaitli
@@ -205,7 +201,7 @@ int main() {
             break;
         }
 
-        string kategorija = getKategorija(kategorijaInput);
+        int kategorija = getKategorija(kategorijaInput);
         
         cout << "Ievadiet apakškategoriju vai atstājiet tukšu: ";
         string apakskategorija;
